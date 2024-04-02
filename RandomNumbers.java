@@ -1,4 +1,4 @@
-Class RandomNumbers {
+class RandomNumbers {
   public static void main(String[] args) {
     Random random = ______;
     for(int i = 0; i < 50; i++) {
